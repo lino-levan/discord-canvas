@@ -1,0 +1,410 @@
+[
+  {
+    "id": 462498,
+    "description": "",
+    "due_at": "2023-04-21T06:59:59Z",
+    "unlock_at": null,
+    "lock_at": null,
+    "points_possible": 40,
+    "grading_type": "points",
+    "assignment_group_id": 114177,
+    "grading_standard_id": null,
+    "created_at": "2023-04-16T04:28:32Z",
+    "updated_at": "2023-04-16T04:28:32Z",
+    "peer_reviews": false,
+    "automatic_peer_reviews": false,
+    "position": 2,
+    "grade_group_students_individually": false,
+    "anonymous_peer_reviews": false,
+    "group_category_id": null,
+    "post_to_sis": false,
+    "moderated_grading": false,
+    "omit_from_final_grade": false,
+    "intra_group_peer_reviews": false,
+    "anonymous_instructor_annotations": false,
+    "anonymous_grading": false,
+    "graders_anonymous_to_graders": false,
+    "grader_count": 0,
+    "grader_comments_visible_to_graders": true,
+    "final_grader_id": null,
+    "grader_names_visible_to_final_grader": true,
+    "allowed_attempts": -1,
+    "annotatable_attachment_id": null,
+    "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjBiZDgyNDgzLTAyOTItNDgxOS04OGY1LWQwY2Q3NGU0YWZiZSIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiIn0.XCSOfQa_fX60PSVfPB61ZpXHRoWfdHTBwqXsAvobXvk",
+    "lti_context_id": "0bd82483-0292-4819-88f5-d0cd74e4afbe",
+    "course_id": 62506,
+    "name": "HW 2",
+    "submission_types": [
+      "external_tool"
+    ],
+    "has_submitted_submissions": false,
+    "due_date_required": false,
+    "max_name_length": 255,
+    "in_closed_grading_period": false,
+    "graded_submissions_exist": false,
+    "is_quiz_assignment": false,
+    "can_duplicate": false,
+    "original_course_id": null,
+    "original_assignment_id": null,
+    "original_lti_resource_link_id": null,
+    "original_assignment_name": null,
+    "original_quiz_id": null,
+    "workflow_state": "published",
+    "important_dates": false,
+    "external_tool_tag_attributes": {
+      "url": "https://www.gradescope.com/auth/lti/callback",
+      "new_tab": false,
+      "resource_link_id": "a3d6fb077a74b50652aec69ebd9f46c062a8b115",
+      "external_data": "",
+      "content_type": "ContextExternalTool",
+      "content_id": 2883,
+      "custom_params": null
+    },
+    "muted": true,
+    "html_url": "https://canvas.ucsc.edu/courses/62506/assignments/462498",
+    "url": "https://canvas.ucsc.edu/api/v1/courses/62506/external_tools/sessionless_launch?assignment_id=462498&launch_type=assessment",
+    "published": true,
+    "only_visible_to_overrides": false,
+    "locked_for_user": false,
+    "submissions_download_url": "https://canvas.ucsc.edu/courses/62506/assignments/462498/submissions?zip=1",
+    "post_manually": false,
+    "anonymize_students": false,
+    "require_lockdown_browser": false,
+    "restrict_quantitative_data": false
+  },
+  {
+    "id": 462569,
+    "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads.s3.amazonaws.com/account_92700000000000001/attachments/5367866/canvas_global_app.css\"><p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"CSE80N_Week_3_Activity_v2-1.pdf\" href=\"https://canvas.ucsc.edu/courses/62489/files/7200974?verifier=s39pLSWBAQwRzABLdG9ztGK2KUXWQUXSzmNLIyDw&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.ucsc.edu/api/v1/courses/62489/files/7200974\" data-api-returntype=\"File\">CSE80N_Week_3_Activity_v2.pdf</a></p>\n<p>This is the first Packet Tracer assignment and is due on Friday at 5pm.&nbsp; No late assignments accepted.&nbsp; Please make sure that you have worked through any installation issues during section this week.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_92700000000000001/attachments/5367860/canvas_global_app.js\"></script>",
+    "due_at": "2023-04-22T00:00:00Z",
+    "unlock_at": "2023-04-17T19:00:00Z",
+    "lock_at": "2023-04-22T00:05:00Z",
+    "points_possible": 20,
+    "grading_type": "points",
+    "assignment_group_id": 112120,
+    "grading_standard_id": null,
+    "created_at": "2023-04-17T02:15:30Z",
+    "updated_at": "2023-04-19T19:30:50Z",
+    "peer_reviews": false,
+    "automatic_peer_reviews": false,
+    "position": 9,
+    "grade_group_students_individually": false,
+    "anonymous_peer_reviews": false,
+    "group_category_id": null,
+    "post_to_sis": false,
+    "moderated_grading": false,
+    "omit_from_final_grade": false,
+    "intra_group_peer_reviews": false,
+    "anonymous_instructor_annotations": false,
+    "anonymous_grading": false,
+    "graders_anonymous_to_graders": false,
+    "grader_count": 0,
+    "grader_comments_visible_to_graders": true,
+    "final_grader_id": null,
+    "grader_names_visible_to_final_grader": true,
+    "allowed_attempts": -1,
+    "annotatable_attachment_id": null,
+    "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImZiZTc0MGFlLWMyYmEtNGQ1ZS1iMzhkLTVmN2IzY2ViODI1MCIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY2EgY2xhc3M9XCJpbnN0cnVjdHVyZV9maWxlX2xpbmsgaW5zdHJ1Y3R1cmVfc2NyaWJkX2ZpbGUgaW5saW5lX2Rpc2FibGVkXCIgdGl0bGU9XCJDU0U4ME5fV2Vla18zX0FjdGl2aXR5X3YyLTEucGRmXCIgaHJlZj1cIi9jb3Vyc2VzLzYyNDg5L2ZpbGVzLzcyMDA5NzQ_d3JhcD0xXCIgdGFyZ2V0PVwiX2JsYW5rXCIgZGF0YS1jYW52YXMtcHJldmlld2FibGU9XCJmYWxzZVwiIGRhdGEtYXBpLWVuZHBvaW50PVwiaHR0cHM6Ly9jYW52YXMudWNzYy5lZHUvYXBpL3YxL2NvdXJzZXMvNjI0ODkvZmlsZXMvNzIwMDk3NFwiIGRhdGEtYXBpLXJldHVybnR5cGU9XCJGaWxlXCJcdTAwM2VDU0U4ME5fV2Vla18zX0FjdGl2aXR5X3YyLnBkZlx1MDAzYy9hXHUwMDNlXHUwMDNjL3BcdTAwM2Vcblx1MDAzY3BcdTAwM2VUaGlzIGlzIHRoZSBmaXJzdCBQYWNrZXQgVHJhY2VyIGFzc2lnbm1lbnQgYW5kIGlzIGR1ZSBvbiBGcmlkYXkgYXQgNXBtLlx1MDAyNm5ic3A7IE5vIGxhdGUgYXNzaWdubWVudHMgYWNjZXB0ZWQuXHUwMDI2bmJzcDsgUGxlYXNlIG1ha2Ugc3VyZSB0aGF0IHlvdSBoYXZlIHdvcmtlZCB0aHJvdWdoIGFueSBpbnN0YWxsYXRpb24gaXNzdWVzIGR1cmluZyBzZWN0aW9uIHRoaXMgd2Vlay5cdTAwM2MvcFx1MDAzZSJ9.AzHBpiEokwFInIvDLiFFzYQTAFFPLyicMg46WgiXXMk",
+    "lti_context_id": "fbe740ae-c2ba-4d5e-b38d-5f7b3ceb8250",
+    "course_id": 62489,
+    "name": "Week 3 Section Activity: Ping with Packet Tracer (Packet Tracer Prelab)",
+    "submission_types": [
+      "online_upload"
+    ],
+    "has_submitted_submissions": true,
+    "due_date_required": false,
+    "max_name_length": 255,
+    "in_closed_grading_period": false,
+    "graded_submissions_exist": false,
+    "is_quiz_assignment": false,
+    "can_duplicate": true,
+    "original_course_id": null,
+    "original_assignment_id": null,
+    "original_lti_resource_link_id": null,
+    "original_assignment_name": null,
+    "original_quiz_id": null,
+    "workflow_state": "published",
+    "important_dates": false,
+    "muted": true,
+    "html_url": "https://canvas.ucsc.edu/courses/62489/assignments/462569",
+    "allowed_extensions": [
+      "pdf"
+    ],
+    "use_rubric_for_grading": false,
+    "free_form_criterion_comments": false,
+    "rubric": [
+      {
+        "id": "_8262",
+        "points": 1,
+        "description": "Prelab Q1",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "blank",
+            "points": 1,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "blank_2",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_6600",
+        "points": 6,
+        "description": "Prelab Q2",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_1971",
+            "points": 6,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_4543",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_3325",
+        "points": 2,
+        "description": "Prelab Q3",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_1921",
+            "points": 2,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_9292",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_4886",
+        "points": 2,
+        "description": "Prelab Q4",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_1143",
+            "points": 2,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_1002",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_1467",
+        "points": 2,
+        "description": "Discussion Q1",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_5811",
+            "points": 2,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_2639",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_2187",
+        "points": 2,
+        "description": "Discussion Q2",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_620",
+            "points": 2,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_3811",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_1043",
+        "points": 3,
+        "description": "Discussion Q3",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_2014",
+            "points": 3,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_3228",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_3026",
+        "points": 1,
+        "description": "Discussion Q4",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_774",
+            "points": 1,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_6183",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_3746",
+        "points": 1,
+        "description": "Discussion Q5",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_9498",
+            "points": 1,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_9923",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      }
+    ],
+    "rubric_settings": {
+      "id": 30823,
+      "title": "Some Rubric",
+      "points_possible": 20,
+      "free_form_criterion_comments": false,
+      "hide_score_total": false,
+      "hide_points": false
+    },
+    "published": true,
+    "only_visible_to_overrides": false,
+    "locked_for_user": false,
+    "submissions_download_url": "https://canvas.ucsc.edu/courses/62489/assignments/462569/submissions?zip=1",
+    "post_manually": true,
+    "anonymize_students": false,
+    "require_lockdown_browser": false,
+    "restrict_quantitative_data": false
+  },
+  {
+    "id": 441234,
+    "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads.s3.amazonaws.com/account_92700000000000001/attachments/5367866/canvas_global_app.css\"><p><u>Weekly Responses</u><br>Submit on Canvas by Saturday at 11:59 pm. a short essay (min 500 words) responding to the two texts read that week.</p>\n<p>What do you notice in terms of narrative, structure, themes, and relevancy today?</p>\n<p>What connections can you draw between the plays and concepts discussed in lecture?</p>\n<p>What current events, issues, films, games, or stories do these plays remind you of?</p>\n<p>What questions and ideas come up as you read?</p>\n<p>Get curious! I’m interested in <em>your</em> voice, <em>your</em> experience with these plays and the connections you make. Dive deep into the texts and connect the dots between the lecture material, the plays you read, and the world around you. I’m interested in your personal, specific, visceral, intellectual response. <u>No need to summarize the play.</u></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_92700000000000001/attachments/5367860/canvas_global_app.js\"></script>",
+    "due_at": "2023-04-23T06:59:59Z",
+    "unlock_at": "2023-04-03T13:00:00Z",
+    "lock_at": "2023-06-11T06:59:59Z",
+    "points_possible": 10,
+    "grading_type": "points",
+    "assignment_group_id": 111475,
+    "grading_standard_id": null,
+    "created_at": "2023-03-14T20:44:14Z",
+    "updated_at": "2023-04-03T13:00:10Z",
+    "peer_reviews": false,
+    "automatic_peer_reviews": false,
+    "position": 3,
+    "grade_group_students_individually": false,
+    "anonymous_peer_reviews": false,
+    "group_category_id": null,
+    "post_to_sis": false,
+    "moderated_grading": false,
+    "omit_from_final_grade": false,
+    "intra_group_peer_reviews": false,
+    "anonymous_instructor_annotations": false,
+    "anonymous_grading": false,
+    "graders_anonymous_to_graders": false,
+    "grader_count": 0,
+    "grader_comments_visible_to_graders": true,
+    "final_grader_id": null,
+    "grader_names_visible_to_final_grader": true,
+    "allowed_attempts": -1,
+    "annotatable_attachment_id": null,
+    "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjQwZGJjMmFjLTA4MTctNDAwNS1hZDk3LTcyZDdmMjc3ZjFiZiIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3VcdTAwM2VXZWVrbHkgUmVzcG9uc2VzXHUwMDNjL3VcdTAwM2VcdTAwM2Niclx1MDAzZVN1Ym1pdCBvbiBDYW52YXMgYnkgU2F0dXJkYXkgYXQgMTE6NTkgcG0uIGEgc2hvcnQgZXNzYXkgKG1pbiA1MDAgd29yZHMpIHJlc3BvbmRpbmcgdG8gdGhlIHR3byB0ZXh0cyByZWFkIHRoYXQgd2Vlay5cdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZVdoYXQgZG8geW91IG5vdGljZSBpbiB0ZXJtcyBvZiBuYXJyYXRpdmUsIHN0cnVjdHVyZSwgdGhlbWVzLCBhbmQgcmVsZXZhbmN5IHRvZGF5P1x1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlV2hhdCBjb25uZWN0aW9ucyBjYW4geW91IGRyYXcgYmV0d2VlbiB0aGUgcGxheXMgYW5kIGNvbmNlcHRzIGRpc2N1c3NlZCBpbiBsZWN0dXJlP1x1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlV2hhdCBjdXJyZW50IGV2ZW50cywgaXNzdWVzLCBmaWxtcywgZ2FtZXMsIG9yIHN0b3JpZXMgZG8gdGhlc2UgcGxheXMgcmVtaW5kIHlvdSBvZj9cdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZVdoYXQgcXVlc3Rpb25zIGFuZCBpZGVhcyBjb21lIHVwIGFzIHlvdSByZWFkP1x1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlR2V0IGN1cmlvdXMhIEnigJltIGludGVyZXN0ZWQgaW4gXHUwMDNjZW1cdTAwM2V5b3VyXHUwMDNjL2VtXHUwMDNlIHZvaWNlLCBcdTAwM2NlbVx1MDAzZXlvdXJcdTAwM2MvZW1cdTAwM2UgZXhwZXJpZW5jZSB3aXRoIHRoZXNlIHBsYXlzIGFuZCB0aGUgY29ubmVjdGlvbnMgeW91IG1ha2UuIERpdmUgZGVlcCBpbnRvIHRoZSB0ZXh0cyBhbmQgY29ubmVjdCB0aGUgZG90cyBiZXR3ZWVuIHRoZSBsZWN0dXJlIG1hdGVyaWFsLCB0aGUgcGxheXMgeW91IHJlYWQsIGFuZCB0aGUgd29ybGQgYXJvdW5kIHlvdS4gSeKAmW0gaW50ZXJlc3RlZCBpbiB5b3VyIHBlcnNvbmFsLCBzcGVjaWZpYywgdmlzY2VyYWwsIGludGVsbGVjdHVhbCByZXNwb25zZS4gXHUwMDNjdVx1MDAzZU5vIG5lZWQgdG8gc3VtbWFyaXplIHRoZSBwbGF5Llx1MDAzYy91XHUwMDNlXHUwMDNjL3BcdTAwM2UifQ.eDMmvj_qOG4Tnt8wreV4zj0dOTRlJd18sKF_n-QmMSM",
+    "lti_context_id": "40dbc2ac-0817-4005-ad97-72d7f277f1bf",
+    "course_id": 62953,
+    "name": "Week 3: A Dream Play / Machinal",
+    "submission_types": [
+      "online_upload"
+    ],
+    "has_submitted_submissions": true,
+    "due_date_required": false,
+    "max_name_length": 255,
+    "in_closed_grading_period": false,
+    "graded_submissions_exist": false,
+    "is_quiz_assignment": false,
+    "can_duplicate": true,
+    "original_course_id": null,
+    "original_assignment_id": null,
+    "original_lti_resource_link_id": null,
+    "original_assignment_name": null,
+    "original_quiz_id": null,
+    "workflow_state": "published",
+    "important_dates": false,
+    "muted": true,
+    "html_url": "https://canvas.ucsc.edu/courses/62953/assignments/441234",
+    "allowed_extensions": [
+      "doc",
+      "docx",
+      "pdf"
+    ],
+    "published": true,
+    "only_visible_to_overrides": false,
+    "locked_for_user": false,
+    "submissions_download_url": "https://canvas.ucsc.edu/courses/62953/assignments/441234/submissions?zip=1",
+    "post_manually": false,
+    "anonymize_students": false,
+    "require_lockdown_browser": false,
+    "restrict_quantitative_data": false
+  }
+]
