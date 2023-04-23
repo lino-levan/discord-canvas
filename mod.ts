@@ -14,6 +14,7 @@ const date_options: Intl.DateTimeFormatOptions = {
   day: "numeric",
   hour: "numeric",
   minute: "numeric",
+  timeZone: "America/Los_Angeles",
 };
 
 client.on("messageCreate", async (message) => {
@@ -108,10 +109,10 @@ async function pingAboutCourses() {
 function schedulePing() {
   const now = new Date();
   let time =
-    new Date(now.getFullYear(), now.getMonth(), now.getDate(), 9, 0, 0, 0)
+    new Date(now.getFullYear(), now.getMonth(), now.getDate(), 16, 0, 0, 0)
       .getTime() - now.getTime();
   if (time < 0) {
-    time += 86400000; // it's after 10am, try 10am tomorrow.
+    time += 86400000;
   }
   setTimeout(pingAboutCourses, time);
 }
